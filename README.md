@@ -8,4 +8,4 @@ For example: Given 8, the result is 18
 whose product is 18.
 
 
-<img width="772" alt="image" src="https://user-images.githubusercontent.com/34954645/180104183-c8d721c8-6a6a-428d-875a-e62af93f5664.png">
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/34954645/180104409-e8758d0c-afd2-449f-813f-1a768fb2eb7c.png">
